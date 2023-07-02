@@ -19,6 +19,9 @@ Your first task is to visualise an earthquake dataset. Complete the following st
     - Include popups that provide additional information about the earthquake when its associated marker is clicked.
     - Create a legend that will provide context for your map data.
 
+Link to map: 
+https://bec-n.github.io/leaflet-challenge/
+
 ![Alt text](image.png)
 
 Code source:
